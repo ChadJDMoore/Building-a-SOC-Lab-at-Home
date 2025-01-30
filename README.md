@@ -44,7 +44,7 @@ The SOC Home Lab project focused on setting up a controlled environment for netw
 
 ### 7. Statically assign the ip address on the Kali Linux VM
   </div>
-  <img width="459" alt="image" src="https://github.com/user-attachments/assets/e8dac2c6-0477-422e-abbf-a69f200e8e28" />
+  <img width="859" alt="image" src="https://github.com/user-attachments/assets/e8dac2c6-0477-422e-abbf-a69f200e8e28" />
   <div>
   <img width="305" alt="image" src="https://github.com/user-attachments/assets/5d4968fc-c656-475b-b9ea-2e05a9aaf65d" />
   <div>
