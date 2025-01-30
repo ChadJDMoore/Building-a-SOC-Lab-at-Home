@@ -25,5 +25,10 @@ The SOC Home Lab project focused on setting up a controlled environment for netw
   <div>
   <img width="571" alt="image" src="https://github.com/user-attachments/assets/30b09d1a-af65-48c4-8958-4ddd27ba4050" />
   </div>
+### 5. Configure the Kali Linux VM
+- Changing the Network to Internal Network and set to the same internal network as the Windows 10 VM
+  <div>
+  <img width="574" alt="image" src="https://github.com/user-attachments/assets/8c6f4928-fc84-4e59-b113-787bceb934c1" />
+  </div>
 
 
