@@ -57,6 +57,8 @@ The SOC Home Lab project focused on setting up a controlled environment for netw
 
 
 ### 8. Ping the ip address of the Kali Linux VM from the Windows 10 VM
-  <div></div>
+  <div>
+  <img width="488" alt="image" src="https://github.com/user-attachments/assets/6307ca01-4c4f-44d3-9ae0-2234215227ad" />
+  </div>
 
 
