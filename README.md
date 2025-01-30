@@ -10,7 +10,6 @@ The SOC Home Lab project focused on setting up a controlled environment for netw
 - Verifying connectivity and analyzing network communication.  
 - Establishing a foundational lab for security testing and analysis.  
 
-Let me know if you'd like any further refinements!
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
