@@ -22,7 +22,8 @@ The SOC Home Lab project focused on setting up a controlled environment for netw
 ### 3. Download Kali Linux Virtual Machine
 ### 4. Configure the Windows 10 VM
 - Changing the Network to Internal Network and set name for the network
+  <div>
   <img width="571" alt="image" src="https://github.com/user-attachments/assets/30b09d1a-af65-48c4-8958-4ddd27ba4050" />
-
+  </div>
 
 
