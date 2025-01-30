@@ -31,6 +31,10 @@ The SOC Home Lab project focused on setting up a controlled environment for netw
   <img width="574" alt="image" src="https://github.com/user-attachments/assets/8c6f4928-fc84-4e59-b113-787bceb934c1" />
   </div>
 ### 6. Statically assign the ip address on the Windows 10 VM 
+  <img width="392" alt="image" src="https://github.com/user-attachments/assets/010d83f0-610d-473c-b692-806575ca9358" />
+  <img width="181" alt="image" src="https://github.com/user-attachments/assets/9f6607bb-c815-46b0-9b0f-43d233f2f38c" />
+
+
 ### 7. Statically assign the ip address on the Kali Linux VM 
 ### 8. Ping the ip address of the Kali Linux VM from the Windows 10 VM
   <div></div>
