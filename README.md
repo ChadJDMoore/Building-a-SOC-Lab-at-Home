@@ -17,10 +17,7 @@ The SOC Home Lab project focused on setting up a controlled environment for netw
 - Kali Linux VM as the attacking machine
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+### 1. Download VirtualBox
+### 2. Download a Windows 10 Virtual Machine
+### 3. Download Kali Linux Virtual Machine
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
